@@ -16,7 +16,10 @@ interface teste {
 
 Pra quê interfaces?
 ----
-- Para criar sistemas com baixo acoplamento e flexíveis
+- Para criar sistemas com baixo acoplamento;
+- Flexibilizar a implementação através de classes concretas;
 - Evitar excessivos pontos de alterações ou manutenções no projeto;
+- Para criar contratos de implementação, onde que as classes concretas sigam esses contratos;
+
   
   
