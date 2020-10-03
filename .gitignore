@@ -1,7 +1,6 @@
 # retornos ao compilar para executar
 /out
 
-
 # arquivos e pastas padrão do intellij
 interface.iml
 /idea

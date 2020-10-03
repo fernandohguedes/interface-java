@@ -17,5 +17,6 @@ interface teste {
 Pra quê interfaces?
 ----
 - Para criar sistemas com baixo acoplamento e flexíveis
+- Evitar excessivos pontos de alterações ou manutenções no projeto;
   
   
