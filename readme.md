@@ -40,5 +40,6 @@ Pra quê interfaces?
 - Para criar contratos de implementação, onde que as classes concretas sigam esses contratos;
 - Injeção de dependencia por meio do construtor (Upcasting);
 - Inversão de controle;
+- implementação da interface *comparable*;
   
   
